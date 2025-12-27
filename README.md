@@ -47,11 +47,3 @@ The application is designed with a responsive user interface supporting both mob
 - Axios
 - Nodemon (development)
 
- ## Project Structure
-
-AI-Chatbot/
-├── client/ # Frontend application
-├── server/ # Backend API and services
-├── .gitignore
-└── README.md
-
